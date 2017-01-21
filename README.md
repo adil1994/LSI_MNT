@@ -6,9 +6,9 @@ l'objectif de ce mini-Projet est la réalisation d'une solution permettant d'eff
 
 Travail à faire  : 
 
-1 - établir un modéle numérique correspondant à notre cas
-2 - crée une application en .NET pemettant de visualiser le MNT 
-3 - afficher le plan sequant en spécifiant deux points , en les fait ce plan sera représenté par une ligne 
-4 - afficher l'intersection entre ce plan est les points 
-5 - dessiner deux points sur cette coupe
-6 - calculer la distance entre ces deux points 
+1 - établir un modéle numérique correspondant à notre cas\n
+2 - crée une application en .NET pemettant de visualiser le MNT \n
+3 - afficher le plan sequant en spécifiant deux points , en les fait ce plan sera représenté par une ligne \n
+4 - afficher l'intersection entre ce plan est les points \n
+5 - dessiner deux points sur cette coupe\n
+6 - calculer la distance entre ces deux points \n
